@@ -42,7 +42,7 @@
             <!-- <div class="slider">
                 <div class="slide-content">
                     <h1 class="movie-title">loki</h1>
-                    <p class="movie-des">Lorem ipsum title, hello hello amet heyyyy mahi mahi elit. jenny distinctio molestiae quis praesentium cum obcaecati eveniet voluptates exercitationem eum accusantium.</p>
+                    <p class="movie-des">Lorem ipsum title, hello hello amet heyyyy mahi mahi elit. jenny museum molestiae quis praesentium cum obcaecati eveniet voluptates exercitationem eum accusantium.</p>
                 </div>
                 <img src="./assets/img/slider 1.png" alt="Slider">
             </div> -->
